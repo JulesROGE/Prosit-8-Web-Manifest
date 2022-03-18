@@ -1,6 +1,7 @@
 {
 "name": "Prosit 8",
 "short_name": "P8",
+"description": "Hub Stage Login",
 "start_url": "index.html",
 "display": "standalone",
 "background-color": "#FFFF",
