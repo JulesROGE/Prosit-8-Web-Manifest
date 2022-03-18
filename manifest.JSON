@@ -1,0 +1,15 @@
+{
+"name": "Prosit 8",
+"short_name": "P8",
+"start_url": "index.html",
+"display": "standalone",
+"background-color": "#FFFF",
+"theme_color" : "#03a9f4",
+"orientation": "portrait-primary",
+"icons": [
+    {
+        "src": "./img/logo.png",
+        "type": "image/png",
+        "sizes": "72x72"
+    }
+]}
