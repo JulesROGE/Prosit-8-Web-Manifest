@@ -8,7 +8,7 @@ self.addEventListener('install', evt => {
 self.addEventListener('activate', evt => {
     console.log('le Service Worker a été installé ');
     });
-//fetch event afin de répondre quand on est en mode hors ligne.
+//Fetch event afin de répondre quand on est en mode hors ligne.
 self.addEventListener('fetch', function(event) {
         event.respondWith(
             caches.open('my_save').then(function(cache) {
