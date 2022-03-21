@@ -1,6 +1,6 @@
 {
-"name": "Prosit 8",
-"short_name": "P8",
+"name": "HUB-STAGE",
+"short_name": "HUBSTAGE",
 "description": "Hub Stage Login",
 "start_url": "index.html",
 "display": "standalone",
