@@ -1,4 +1,4 @@
-//Installation du service worker
+//Installation du service worker.
 self.addEventListener('install', evt => {
     evt.waitUntil( caches.open(NomDuCache).then(cache => {
     cache.addAll(assets);
